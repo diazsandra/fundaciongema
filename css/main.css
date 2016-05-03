@@ -1,0 +1,96 @@
+@import url(bootstrap/_bootstrap.css);
+#galeria {
+  background-color: rgba(201, 93, 139, 0.1);
+  padding-bottom: 5%; }
+  #galeria h2 {
+    font-family: 'PT Sans Narrow','Montserrat','Droid Serif' !important;
+    color: #C95A97;
+    font-size: 3.5em;
+    margin-bottom: 2%;
+    font-weight: bolder; }
+  #galeria p {
+    font-family: 'PT Sans Narrow','Montserrat','Droid Serif' !important;
+    color: #C95A97;
+    font-size: 1.2em;
+    margin-bottom: 5%;
+    font-style: italic; }
+
+.gale img {
+  height: 280px !important;
+  width: 100%;
+  border-radius: 5px; }
+.gale .thumbnail {
+  border: 1px solid #C95A97 !important; }
+
+.imgcarousel {
+  height: 300px !important;
+  width: 100% !important; }
+
+#talleres {
+  padding-bottom: 5%; }
+  #talleres h2 {
+    font-family: 'PT Sans Narrow','Montserrat','Droid Serif' !important;
+    color: #C95A97;
+    font-size: 3.5em;
+    margin-bottom: 3%; }
+  #talleres h3 {
+    font-family: 'PT Sans Narrow','Montserrat','Droid Serif' !important;
+    color: #C95A97;
+    font-size: 2em;
+    margin-bottom: 5%; }
+  #talleres .rounded {
+    padding: 2%;
+    background-color: rgba(201, 93, 139, 0.3);
+    position: center !important;
+    margin-top: 5%; }
+  #talleres img {
+    width: 90%;
+    height: 300px; }
+
+.center-block {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important; }
+
+a {
+  text-decoration: none !important; }
+
+a :hover {
+  background-color: rgba(201, 93, 139, 0.9) !important; }
+
+/* MODAL */
+.h3modal {
+  font-family: 'PT Sans Narrow','Montserrat','Droid Serif' !important;
+  color: #C95A97;
+  font-size: 3em;
+  margin-bottom: 5%; }
+
+.h5modal {
+  font-family: 'PT Sans Narrow','Montserrat','Droid Serif' !important;
+  color: #C95A97;
+  font-size: 1.5em;
+  margin-bottom: 2%; }
+
+.resaltar {
+  font-style: italic;
+  color: #C95A97; }
+
+button {
+  font-weight: bolder !important; }
+
+.btn-primary {
+  background-color: #C95A97 !important;
+  border-color: #C95A97 !important; }
+
+.btn-primary:focus,
+.btn-primary.focus {
+  color: #fff;
+  background-color: rgba(201, 93, 139, 0.8) !important;
+  border-color: rgba(201, 93, 139, 0.8) !important; }
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: rgba(201, 93, 139, 0.8) !important;
+  border-color: rgba(201, 93, 139, 0.8) !important; }
+
+/*# sourceMappingURL=main.css.map */
